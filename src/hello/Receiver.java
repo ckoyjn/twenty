@@ -6,7 +6,7 @@
 package hello;
 
 /**
- * 3
+ * 6
  * @author Administrator
  */
 
@@ -17,11 +17,11 @@ public class Receiver {
         //write code here
         
     }
-    
+  
     public void action() {
-      
+        
         System.out.println("Action has been taken");
-
+        
     }
 
 }
