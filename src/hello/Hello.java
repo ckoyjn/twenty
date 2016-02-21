@@ -16,7 +16,8 @@ public class Hello {
      */
     public static void main(String[] args) {
         // TODO code application logic hereaaaa
-       3
+        public void static main(String[] args){}
+        public void static main(String[] args){}
     }
     
 }
