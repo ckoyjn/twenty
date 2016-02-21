@@ -6,12 +6,12 @@
 package hello;
 
 /**
- * 9
+ * 12
  * @author Administrator
  */
 
 public class Receiver {
-   
+  
     public Receiver() {
         
         //write code here
