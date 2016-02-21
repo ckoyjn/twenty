@@ -6,7 +6,7 @@
 package hello;
 
 /**
- * 12
+ * 14
  * @author Administrator
  */
 
@@ -19,7 +19,7 @@ public class Receiver {
     }
     
     public void action() {
-        
+       
         System.out.println("Action has been taken");
         
     }
