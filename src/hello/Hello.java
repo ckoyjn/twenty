@@ -12,12 +12,13 @@ package hello;
 public class Hello {
 
     /**
-     * @param args the command line arguments
+     * @param args the command line argumentsgggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggg
      */
     public static void main(String[] args) {
-        // TODO code application logic hereaaaa
-        public void static main(String[] args){}
-        public void static main(String[] args){}
+        // TODO code application logic hereaaaagggggggggggggggggggggggggggggg
+        public static void main(String[] args){}
+        public static void main(String[] args){}
+        public static void main(String[] args){}
     }
     
 }
